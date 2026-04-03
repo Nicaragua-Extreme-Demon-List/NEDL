@@ -1,27 +1,27 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Reaper" 
+        "link": "https://youtube.com/@el_reaper_gd?si=RphmJeWD-ansDJxj"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "ZeroReturn",
+        "link": "https://youtube.com/@zeroreturngd?si=Anp8AVRhWwVgmDS-"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Reaper",
+        "link": "https://youtube.com/@el_reaper_gd?si=RphmJeWD-ansDJxj"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Reaper",
+        "link": "https://youtube.com/@el_reaper_gd?si=RphmJeWD-ansDJxj"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "ZeroReturn",
+        "link": "https://youtube.com/@zeroreturngd?si=Anp8AVRhWwVgmDS-"
     }
 ]
