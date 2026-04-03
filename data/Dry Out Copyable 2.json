@@ -1,1 +1,17 @@
-
+{
+    "id": 106522770,
+    "name": "Dry out copyable 2",
+    "author": "Tenzk",
+    "verifier": "S3batr0nic",
+    "verification": "https://youtu.be/FXW9J9CaREU?si=Z7wUagWPIA7JarT7",
+    "percentToQualify": 100,
+    "password": "No lo se xd",
+    "records": [
+        {
+            "user": "Clickdash",
+            "link": "https://youtu.be/7gdAgBSA4v0?si=maxonk85w6ALl1d2",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
